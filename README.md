@@ -7,3 +7,6 @@ npm install @reduxjs/toolkit react-redux
 npm install react-router-dom localforage match-sorter sort-by
 
 ```
+
+## Get Started
+```npm run dev```
